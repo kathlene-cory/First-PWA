@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kathlene-cory/First-PWA",
+    "url": "git+https://github.com/First-PWA",
     "keywords": [
       "offline",
       "money",
@@ -26,9 +26,9 @@
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/kathlene-cory/First-PWA"
+      "url": "https://github.com/First-PWA"
     },
-    "homepage": "https://github.com/kathlene-cory/First-PWA",
+    "homepage": "https://github.com/First-PWA",
     "dependencies": {
       "compression": "^1.7.4",
       "express": "^4.17.1",
