@@ -1,19 +1,41 @@
 {
-  "name": "budget-app",
+  "name": "Budget App",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
+    "watch": "nodemon server.js",
+    "test": "node server.js",
     "start": "node server.js",
     "lite-server": "lite-server"
   },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "compression": "^1.7.4",
-    "express": "^4.17.1",
-    "lite-server": "^2.5.3",
-    "mongoose": "^5.9.27",
-    "morgan": "^1.10.0"
+  "repository": {
+    "type": "git",
+    "url": "git+https: //github.com/First-PWA",
+    "keywords": [
+      "offline",
+      "money",
+      "manager",
+      "node.js",
+      "express",
+      "compression",
+      "lite-server",
+      "mongoose",
+      "c.r.e.a.m."
+    ],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https: //github.com/First-PWA"
+    },
+    "homepage": "https: //github.com/First-PWA",
+    "dependencies": {
+      "compression": "^1.7.4",
+      "express": "^4.17.1",
+      "lite-server": "^2.5.4",
+      "minimist": "^1.2.5",
+      "mongoose": "^5.9.26",
+      "morgan": "^1.10.0"
+    }
   }
 }
