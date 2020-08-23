@@ -6,7 +6,7 @@
   "scripts": {
     "watch": "nodemon server.js",
     "test": "node server.js",
-    "start": "npm start",
+    "start": "node server.js",
     "lite-server": "lite-server"
   },
   "repository": {
