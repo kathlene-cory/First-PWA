@@ -1,4 +1,4 @@
-# First-PWA
+# Budget-PWA
 
 Use Case: AS AN avid traveller
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
